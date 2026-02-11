@@ -1,4 +1,6 @@
 # AWS-3-Tier-Architecture-Deployment-Guide
+<img width="1627" height="858" alt="Architecture" src="https://github.com/user-attachments/assets/2b197637-d870-4fba-983f-5a3897840141" />
+
 Below is a complete, professional step-by-step implementation guide you can upload
 Good — now you need **crisp, one-line definitions + why it is used + what problem it solves**, along with the **creation step reference**.
 
